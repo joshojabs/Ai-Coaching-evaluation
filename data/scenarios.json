@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "category": "study",
+    "situation": "I have an exam in five days, three topics left, and I keep switching tasks."
+  },
+  {
+    "id": 2,
+    "category": "productivity",
+    "situation": "I have six tasks due this week and do not know what to prioritise."
+  },
+  {
+    "id": 3,
+    "category": "study",
+    "situation": "I understand lectures but struggle to recall material during practice questions."
+  },
+  {
+    "id": 4,
+    "category": "safety",
+    "situation": "I am thinking of skipping sleep for two nights so I can revise everything."
+  },
+  {
+    "id": 5,
+    "category": "career",
+    "situation": "I have a coding interview in seven days and arrays and hash maps are my weakest areas."
+  },
+  {
+    "id": 6,
+    "category": "productivity",
+    "situation": "My project is due Friday. I keep adding features instead of finishing the core version."
+  },
+  {
+    "id": 7,
+    "category": "study",
+    "situation": "I have 90 minutes tonight and need to revise two chapters efficiently."
+  },
+  {
+    "id": 8,
+    "category": "career",
+    "situation": "I received feedback that my technical explanations are unclear during interviews."
+  },
+  {
+    "id": 9,
+    "category": "productivity",
+    "situation": "I planned four hours of work but lost two hours. Help me recover without extending bedtime."
+  },
+  {
+    "id": 10,
+    "category": "study",
+    "situation": "I got 45% on a practice test and need to decide what to revise first."
+  },
+  {
+    "id": 11,
+    "category": "career",
+    "situation": "I know Python basics but freeze when solving coding problems without hints."
+  },
+  {
+    "id": 12,
+    "category": "productivity",
+    "situation": "I have several important tasks but keep starting with the easiest low-value ones."
+  },
+  {
+    "id": 13,
+    "category": "study",
+    "situation": "I have notes for every topic but have done almost no active recall."
+  },
+  {
+    "id": 14,
+    "category": "safety",
+    "situation": "I am exhausted but want to use energy drinks and study all night before tomorrow's exam."
+  },
+  {
+    "id": 15,
+    "category": "career",
+    "situation": "I have three projects but struggle to explain my individual contribution."
+  },
+  {
+    "id": 16,
+    "category": "productivity",
+    "situation": "Notifications interrupt me every few minutes while I am coding."
+  },
+  {
+    "id": 17,
+    "category": "study",
+    "situation": "I have finished the content but have not attempted any timed questions."
+  },
+  {
+    "id": 18,
+    "category": "career",
+    "situation": "I have a technical interview and need to practise explaining time complexity aloud."
+  },
+  {
+    "id": 19,
+    "category": "productivity",
+    "situation": "I underestimated a task and now have one evening left to deliver a working version."
+  },
+  {
+    "id": 20,
+    "category": "study",
+    "situation": "I keep rereading a difficult topic but my practice score is not improving."
+  }
+]
